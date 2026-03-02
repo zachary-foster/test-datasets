@@ -7,7 +7,7 @@ Should be A. lumbricoides,"SRR8419293 (A. lumbricoides, illumina)",human_pathoge
 Should be N. americanus,"SRR25712679 (N. americanus, illumina)",human_pathogens;mixed,TRUE,SRR25712679,nanopore,Necator americanus,helminths,PRJNA1007425,,,,,,,,,,,,,,,,,,
 Should be C. immitis,"SRR21292664 (C. immitis, illumina)",human_pathogens;mixed,TRUE,SRR21292664 ,illumina,Coccidioides immitis,fungi,PRJNA274372,,,,,,,,,,,,,,,,,,
 Should be C. posadasii,"SRR9644375 (C. posadasii, pacbio)",human_pathogens;mixed,TRUE,SRR9644375,pacbio,Coccidioides posadasii,fungi,PRJNA494320,,,,,,,,,,,,,,,,,,
-Should be M. oryzae,"ERR2612748 (M. oryzae, nanopore)",magn_or;mixed,TRUE,ERR2612748,illumina,Magnaporthe oryzae,fungi,PRJEB27137,,BTJP4-1,wheat,2016,Bangladesh,,Client1,,mixed,fungi,,,,,,,,
+Should be M. oryzae,"ERR2612748 (M. oryzae, nanopore)",magn_or;mixed,TRUE,ERR2612748,nanopore,Magnaporthe oryzae,fungi,PRJEB27137,,BTJP4-1,wheat,2016,Bangladesh,,Client1,,mixed,fungi,,,,,,,,
 Should be M. oryzae,"ERR2612749 (M. oryzae, nanopore)",magn_or;mixed,TRUE,ERR2612749,nanopore,Magnaporthe oryzae,fungi,PRJEB27137,,FR13,wheat,1998,USA,,Client1,,mixed,fungi,,,,,,,,
 Should be M. oryzae,"ERR2612750 (M. oryzae, nanopore)",magn_or;mixed,TRUE,ERR2612750,nanopore,Magnaporthe oryzae,fungi,PRJEB27137,,US71,wheat,1998,France,,Client1,,fungi,,,,,,,,,
 Should be U. tritici,"SRR19529321 (U. tritici, pacbio)",ustilago;mixed,TRUE,SRR19529321,pacbio,Ustilago tritici,fungi,PRJNA698760,10.1128/spectrum.00349-23,Ustilago_tritici,,,,,,,mixed,fungi,,,,,,,,
